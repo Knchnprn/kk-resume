@@ -1,0 +1,142 @@
+.Banner{
+    padding-top: 10vh;
+    padding-bottom: 12vh;
+    background-color: #1A1A2E;
+}
+.Banner-b{
+    
+    width: 80%;
+    height: auto;
+
+}
+.AboutMe{
+    padding-top: 5vh;
+    padding-bottom: 6vh;
+    background-color: white;
+}
+.rectangle {
+    height: calc(2px + 1vmin);
+    width: 100%;
+    background-color:#1A1A2E;
+  }
+.rectangle-02 {
+    height: calc(2px + 1vmin);
+    width: 100%;
+    background-color:white;
+  }
+  .rectangle-v {
+    height: 100%;
+    width: 2px;
+    background-color:white;
+    position:  absolute;
+    display: flex;
+    left: 0px;
+    top: 0px;
+  }
+  .rectangle-v2 {
+    height: 100%;
+    width: 2px;
+    background-color:#1A1A2E;
+    position:  absolute;
+    display: flex;
+    left: 0px;
+    top: 0px;
+  }
+
+.container-AboutMe{
+    padding-left: 8vw;
+    padding-right: 8vw;
+
+}
+
+.container-contact{
+    padding-left: 8vw;
+    padding-right: 8vw;
+    min-height: 70vh;
+}
+
+.header{
+    text-align: center;
+    font-size: calc(50px + 2vmin);
+    align-self: center;
+    color: #1A1A2E;
+    
+}
+.header-02{
+    text-align: center;
+    font-size: calc(50px + 2vmin);
+    align-self: center;
+    color: white;
+    
+}
+.text{
+    color: white;
+    text-indent: 10%;
+    font-size: calc(15px + 2vmin);
+    background-color: #1A1A2E;
+}
+.text-02{
+    color: white;
+    font-size: calc(15px + 2vmin);
+
+}
+.text-03{
+    color:#1A1A2E ;
+    font-size: calc(15px + 2vmin);
+   
+}
+.skills-text{
+    text-align: center;
+    color: white;
+    font-size: calc(15px + 2vmin);
+}
+.contact-text{
+    font-size: calc(15px + 2vmin);
+    align-self: center;
+    color:#1A1A2E ;
+}
+.education{
+    padding-top: 5vh;
+    padding-bottom: 6vh;
+    background-color: #1A1A2E;
+}
+
+.z-9 {
+    position:  absolute;
+    left: 0px;
+    right: 0px;
+    z-index: 9;
+}
+
+.z-10 {
+    position:  absolute;
+    left: 0px;
+    right: 0px;
+    z-index: 10;
+}
+.skills{
+    min-height: 60vh;
+    background-color: #1A1A2E;
+}
+.photo{
+    width: 70%;
+    height: auto;
+}
+
+.photo-2
+{
+    width: 30%;
+    height: auto;
+}
+.photo-profile{
+    width: 70%;
+    height: auto;
+}
+
+/* nav-item nav-link pl-4 pr-4 */
+
+.nav-active {
+    color:#d1dce7;
+    background-color:rgb(190, 179, 221);
+    border-color:#dee2e6 #dee2e6 #fff
+}
