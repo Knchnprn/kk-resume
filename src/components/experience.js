@@ -14,7 +14,7 @@ function experience(){
             </div> */}
              <div className="col-7 text-03 p-5" >
              <div className='rectangle-v2'></div>
-             
+              
              <div className='row'>
              • May 2018 - Aug 2018 
              </div>
@@ -29,7 +29,10 @@ function experience(){
              </div> 
              <div className='row'>
              - Helpdesk support
-             </div>      
+             </div>   
+             <div className='row'>
+              
+             </div>    
               
              
 
