@@ -40,7 +40,7 @@ function navbar(props){
     window.addEventListener("scroll", () => {
       let current = "";
      let pageYOffsetValue = window.pageYOffset
-        sections.forEach((section) => {
+        sections.forEach((section) => { 
         const sectionTop = section.offsetTop;
         const sectionHeight = section.clientHeight;
         if (pageYOffsetValue >= sectionTop - sectionHeight / 2) {
